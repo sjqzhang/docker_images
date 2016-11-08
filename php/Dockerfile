@@ -1,4 +1,4 @@
-FROM alphine-base
+FROM alpine-base
 
 RUN echo "https://mirror.tuna.tsinghua.edu.cn/alpine/v3.4/main/" > /etc/apk/repositories && \
 apk update && \

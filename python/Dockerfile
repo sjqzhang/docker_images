@@ -1,4 +1,4 @@
-FROM alphine-base
+FROM alpine-base
 
 
 ADD pip.conf /etc/pip.conf

@@ -1,1 +1,1 @@
-docker build -t alphine-base .
+docker build -t alpine-base .
